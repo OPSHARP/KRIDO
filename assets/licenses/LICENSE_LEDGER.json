@@ -1,0 +1,23 @@
+{
+  "project": "Kids King Pro",
+  "version": "1.0.0",
+  "statement": "Kids King Pro is an offline-first educational mini-game platform for children. All assets are original or verified CC0/commercial royalty-free.",
+  "licenses": [
+    {
+      "assetId": "kenney_digital_audio",
+      "source": "https://kenney.nl/assets/digital-audio",
+      "license": "CC0 1.0 Universal",
+      "permissionCommercial": true,
+      "attribution": "Kenney (kenney.nl)",
+      "reviewStatus": "approved"
+    },
+    {
+      "assetId": "google_fonts_nunito",
+      "source": "https://fonts.google.com/specimen/Nunito",
+      "license": "OFL-1.1",
+      "permissionCommercial": true,
+      "attribution": "Vernon Adams, Cyreal",
+      "reviewStatus": "approved"
+    }
+  ]
+}
