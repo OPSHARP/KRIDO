@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=38,30,22,14,6,0&height=220&section=header&text=KRIDO%20Kids%20Games&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%8E%AE%2028%2B%20Wholesome%20Early%20Learning%20Offline%20Mini-Games&descAlignY=62&descAlign=50" width="100%" alt="KRIDO Kids Games 3D Banner" />
-
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/KRIDO">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="95" height="95" alt="KRIDO Kids Games 3D Icon" />
@@ -234,8 +231,4 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more details
   <a href="https://play.google.com/store/apps/details?id=com.krido.kidsapp"><b>Download on Google Play Store</b></a>
 </div>
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=38,30,22,14,6,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
-</div>
